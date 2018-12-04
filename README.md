@@ -1,1 +1,1 @@
-# egg-explorer
+# Block explorer for nibble classic
