@@ -7,7 +7,8 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "nbx": [
-	["nibble.cncoin.cf", "https://nibble.cncoin.cf/api/"]
+	["nibble.cncoin.cf", "https://nibble.cncoin.cf/api/"],
+	["nbxpool.com", "https://nbxpool.com:8119/"]
 ]
 };
 
