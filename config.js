@@ -8,7 +8,7 @@ var refreshDelay = 30000;
 var networkStat = {
  "nbx": [
 	["nibble.cncoin.cf", "https://nibble.cncoin.cf/api/"],
-	["nbxpool.com", "https://nbxpool.com:8119/"]
+	["nbxpool.com", "https://nbxpool.com:8119"]
 ]
 };
 
