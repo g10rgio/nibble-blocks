@@ -8,7 +8,11 @@ var refreshDelay = 30000;
 var networkStat = {
  "nbx": [
 	["nibble.cncoin.cf", "https://nibble.cncoin.cf/api/"],
-	["nbxpool.com", "https://nbxpool.com:8119"]
+	["nbxpool.com", "https://nbxpool.com:8119"],
+	["heigh-ho.funkypenguin.co.nz", "https://api.nbx.heigh-ho.funkypenguin.co.nz"],
+	["nbx.hackerknowledge.de", "https://pool.nbx.hackerknowledge.de:8119"],
+	["nbx.llama.horse", "https://pool.llama.horse:17125"]
+	 
 ]
 };
 
