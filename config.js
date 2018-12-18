@@ -11,7 +11,8 @@ var networkStat = {
 	["nbxpool.com", "https://nbxpool.com:8119"],
 	["heigh-ho.funkypenguin.co.nz", "https://api.nbx.heigh-ho.funkypenguin.co.nz"],
 	["nbx.hackerknowledge.de", "https://pool.nbx.hackerknowledge.de:8119"],
-	["nbx.llama.horse", "https://pool.llama.horse:17125"]
+	["nbx.llama.horse", "https://pool.llama.horse:17125"],
+	["nbx.cryptonight.mine.nu", "http://nbx.cryptonight.mine.nu:8118"]
 	 
 ]
 };
